@@ -52,4 +52,7 @@ dependencies {
     // PDFViewers
     implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
     implementation 'com.mindorks.android:prdownloader:0.6.0'
+
+    //ExoPlayer dependency
+    implementation 'com.google.android.exoplayer:exoplayer:2.17.1'
 }
