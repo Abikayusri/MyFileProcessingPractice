@@ -3,7 +3,7 @@ package binar.academy.myfileprocessingpractice
 import android.os.Bundle
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
-import binar.academy.myfileprocessing.utils.Utils
+import binar.academy.myfileprocessingpractice.utils.Utils
 import binar.academy.myfileprocessingpractice.databinding.ActivityWebViewBinding
 
 class WebViewActivity : AppCompatActivity() {

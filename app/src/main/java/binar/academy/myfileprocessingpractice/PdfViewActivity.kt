@@ -7,8 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import binar.academy.myfileprocessing.utils.Utils
-import binar.academy.myfileprocessingpractice.databinding.ActivityMainBinding
+import binar.academy.myfileprocessingpractice.utils.Utils
 import binar.academy.myfileprocessingpractice.databinding.ActivityPdfViewBinding
 import com.downloader.Error
 import com.downloader.OnDownloadListener

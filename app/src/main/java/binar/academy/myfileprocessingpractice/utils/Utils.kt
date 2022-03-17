@@ -1,4 +1,4 @@
-package binar.academy.myfileprocessing.utils
+package binar.academy.myfileprocessingpractice.utils
 
 import android.content.Context
 import android.os.Environment
@@ -7,7 +7,6 @@ import java.io.File
 
 object Utils {
     fun getPdfUrl(): String {
-//        return "https://mindorks.s3.ap-south-1.amazonaws.com/courses/MindOrks_Android_Online_Professional_Course-Syllabus.pdf"
         return "https://kotlinlang.org/assets/kotlin-media-kit.pdf"
     }
 
